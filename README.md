@@ -1,2 +1,2 @@
-# Company-Profitability
-Prediction using Machine Learning algorithms if a company will be profitable or not in the next 5 years
+# Fraud Merchant Prediction
+Prediction using Machine Learning algorithms if a merchant is Fraudster or not for a E-Commerce client
